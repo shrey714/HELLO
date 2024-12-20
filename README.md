@@ -2,7 +2,7 @@
 
 ## https://shrey714.github.io/HELLO/ 
 
-- Check out new Hello!!(Add Your Note) Here
+- Check out new Hello!!(Add Your Note) Here..
 
 ## 1
 ![demo](https://user-images.githubusercontent.com/76216765/126896982-534b00a9-58ca-4a33-afe8-211ff7a4b333.gif)
