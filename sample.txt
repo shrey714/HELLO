@@ -1,0 +1,1 @@
+So the thing is, this Jira is not part of the 09.01 release, but the PR XXXX (titled “REVERT Twtx-YYYY…”) contains the Jira ID of this ticket. That’s why I think it got mapped.
